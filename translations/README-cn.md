@@ -286,7 +286,7 @@
 
 ### 面试准备
 
-- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+- [ x ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - 附有 C++ 和 Java 解答
     - 这是在练习 Cracking the Coding Interview 之前一个很好的热身
     - 不太困难，大多数问题可能比你在面试中看到的要容易（根据我的阅读）
